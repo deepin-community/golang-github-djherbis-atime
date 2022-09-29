@@ -1,0 +1,22 @@
+golang-github-djherbis-atime (1.1.0-2+u001) UNRELEASED; urgency=medium
+
+  * update
+
+ -- Debian Go Packaging Team <team+pkg-go@tracker.debian.org>  Fri, 27 May 2022 14:59:17 +0800
+
+golang-github-djherbis-atime (1.1.0-2) unstable; urgency=medium
+
+  * Source-only upload for migration to testing
+  * Reorder fields in debian/control and debian/copyright
+    as would be generated in the next dh-make-golang release after 0.6.0-1
+
+ -- Anthony Fok <foka@debian.org>  Fri, 17 Dec 2021 18:19:27 -0700
+
+golang-github-djherbis-atime (1.1.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #998474)
+  * Mention The Go Authors and BSD-3-clause in debian/copyright.
+    Thanks to Thorsten Alteholz for the careful licence check!
+  * Use dh-sequence-golang instead of dh-golang and --with=golang
+
+ -- Anthony Fok <foka@debian.org>  Mon, 29 Nov 2021 14:35:02 -0700
