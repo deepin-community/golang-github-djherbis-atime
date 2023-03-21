@@ -1,8 +1,12 @@
-golang-github-djherbis-atime (1.1.0-2+u001) UNRELEASED; urgency=medium
+golang-github-djherbis-atime (1.1.0-2deepin) unstable; urgency=medium
 
+  [ Debian Go Packaging Team ]
   * update
 
- -- Debian Go Packaging Team <team+pkg-go@tracker.debian.org>  Fri, 27 May 2022 14:59:17 +0800
+  [ Yutao Meng ]
+  * Regulate version name
+
+ -- Yutao Meng <mengyutao@uniontech.com>  Tue, 21 Mar 2023 16:50:02 +0800
 
 golang-github-djherbis-atime (1.1.0-2) unstable; urgency=medium
 
